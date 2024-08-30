@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Attainment
-permalink: /attainment/
+icon: fas fa-graduation-cap
 ---
 
 
