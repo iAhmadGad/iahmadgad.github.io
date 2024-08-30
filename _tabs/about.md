@@ -1,3 +1,9 @@
+---
+layout: page
+title: About
+icon: fas fa-user
+---
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/iahmadgad/iahmadgad/main/files/Ghaza/badge0.png"> 
   <a href="https://projecteuler.net/progress=0xAhmad"><img src="https://projecteuler.net/profile/0xAhmad.png"></a><br>

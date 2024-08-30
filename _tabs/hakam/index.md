@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hakam (Problem solving judge)
-permalink: /projects/hakam/
+permalink: /hakam/
 exclude: true
 ---
 
