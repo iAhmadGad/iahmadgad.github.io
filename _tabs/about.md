@@ -5,9 +5,9 @@ icon: fas fa-user
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/iahmadgad/iahmadgad/main/files/Ghaza/badge0.png"> 
-  <a href="https://projecteuler.net/progress=0xAhmad"><img src="https://projecteuler.net/profile/0xAhmad.png"></a><br>
-  <a href="https://www.codewars.com/users/0xAhmad"><img src="https://www.codewars.com/users/0xAhmad/badges/micro"></a>
+  <img src="https://raw.githubusercontent.com/iahmadgad/iahmadgad/main/files/Ghaza/badge0.png" alt="Ghaza"> 
+  <a href="https://projecteuler.net/progress=0xAhmad"><img src="https://projecteuler.net/profile/0xAhmad.png" alt="Project Euler badge"></a><br>
+  <a href="https://www.codewars.com/users/0xAhmad"><img src="https://www.codewars.com/users/0xAhmad/badges/micro" alt="Codewars badge"></a>
 </p>
 
 # `whoami`
