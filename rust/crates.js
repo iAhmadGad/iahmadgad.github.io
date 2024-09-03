@@ -1,1 +1,0 @@
-window.ALL_CRATES = ["rock_paper_scissors"];

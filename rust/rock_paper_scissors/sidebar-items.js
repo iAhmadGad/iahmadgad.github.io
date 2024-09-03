@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"enum":["Choice","Mode"],"fn":["main","mreadln"],"struct":["Game"]};
