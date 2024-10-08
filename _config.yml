@@ -2,7 +2,8 @@ title: Stands with Ghaza 🔻
 email: ahmadasaadh@gmail.com
 description: >- 
   My personal website.
-baseurl: ""
+domain: "iahmadgad.github.io"
+baseurl: "iahmadgad.github.io"
 url: "https://iahmadgad.github.io"
 github_username: iahmadgad
 
